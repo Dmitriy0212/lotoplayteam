@@ -314,3 +314,9 @@ a:hover {
     font-size: 8px;
   }
 }
+
+@media (max-width: 500px) {
+  .aboutimg {
+    width: 100%;
+  }
+}
